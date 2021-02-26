@@ -1,0 +1,15 @@
+1.git init 初始化
+
+2.git --version  查看git版本
+
+3.git status  检测当前文件状态
+
+4.git checkout  分支名    切换到对应分支
+
+5.git branch  分支名   创建分支
+
+6.git merge  分支名   将分支合并到当前分支
+
+7.git branch -d  分支名   删除分支
+
+8.合并出现冲突时，需要手动修复冲突
