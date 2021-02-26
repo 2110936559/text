@@ -6,7 +6,7 @@
 
 4.git checkout  分支名    切换到对应分支
 
-5.git branch  分支名   创建分支   测试创建分支
+5.git branch  分支名   创建分支 
 
 6.git merge  分支名   将分支合并到当前分支
 
